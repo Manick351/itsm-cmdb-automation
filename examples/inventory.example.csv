@@ -1,0 +1,4 @@
+Name,Power,IP address,vCPU,RAM GB,OS,Location
+srv-app-07,On,10.0.20.37,4,16,Microsoft Windows Server 2022 (64-bit),SiteA
+srv-db-02,On,10.0.20.52,8,64,Ubuntu Linux (64-bit),SiteA
+srv-db-02 (old),Off,10.0.20.52,8,32,Ubuntu Linux (64-bit),SiteA

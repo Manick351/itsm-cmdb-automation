@@ -1,0 +1,18 @@
+# Local configuration, credentials and runtime state - never commit
+config/*
+!config/.gitkeep
+state/
+
+# Output
+logs/
+out/
+*.log
+*.xlsx
+*.html
+
+# Editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
